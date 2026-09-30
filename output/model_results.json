@@ -1,0 +1,11 @@
+{
+  "n_experiments": 20,
+  "accuracies": {
+    "morphology_only": 0.6,
+    "flow_cytometry_only": 0.55,
+    "imaging_only": 0.85,
+    "multi_modal_all3": 0.9
+  },
+  "best_single_modality_accuracy": 0.85,
+  "multi_modal_accuracy": 0.9
+}

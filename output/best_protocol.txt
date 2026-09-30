@@ -1,0 +1,3 @@
+A_standard
+F_stat_or_ratio=1.0141354795972533
+p_value=0.41228972045107437
